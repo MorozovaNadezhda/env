@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/s5duji1x851ju5mj/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ahj-homeworks-anim/branch/master)
+[CI](https://github.com/MorozovaNadezhda/https://github.com/MorozovaNadezhda/env/tree/main/actions/workflows/web.yml/badge.svg)
